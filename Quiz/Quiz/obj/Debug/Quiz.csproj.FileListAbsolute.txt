@@ -1,0 +1,17 @@
+C:\Users\Huawei\source\repos\Quiz\Quiz\bin\Debug\Quiz.exe.config
+C:\Users\Huawei\source\repos\Quiz\Quiz\bin\Debug\Quiz.exe
+C:\Users\Huawei\source\repos\Quiz\Quiz\bin\Debug\Quiz.pdb
+C:\Users\Huawei\source\repos\Quiz\Quiz\obj\Debug\Quiz.csproj.AssemblyReference.cache
+C:\Users\Huawei\source\repos\Quiz\Quiz\obj\Debug\Quiz.Properties.Resources.resources
+C:\Users\Huawei\source\repos\Quiz\Quiz\obj\Debug\Quiz.csproj.GenerateResource.cache
+C:\Users\Huawei\source\repos\Quiz\Quiz\obj\Debug\Quiz.csproj.CoreCompileInputs.cache
+C:\Users\Huawei\source\repos\Quiz\Quiz\obj\Debug\Quiz.exe
+C:\Users\Huawei\source\repos\Quiz\Quiz\obj\Debug\Quiz.pdb
+C:\Users\Huawei\source\repos\Quiz\Quiz\obj\Debug\Quiz.SettingsForm.resources
+C:\Users\Huawei\source\repos\Quiz\Quiz\obj\Debug\Quiz.MainForm.resources
+C:\Users\Huawei\source\repos\Quiz\Quiz\bin\Debug\Interop.WMPLib.dll
+C:\Users\Huawei\source\repos\Quiz\Quiz\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Huawei\source\repos\Quiz\Quiz\obj\Debug\Interop.WMPLib.dll
+C:\Users\Huawei\source\repos\Quiz\Quiz\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Huawei\source\repos\Quiz\Quiz\obj\Debug\Quiz.csproj.ResolveComReference.cache
+C:\Users\Huawei\source\repos\Quiz\Quiz\obj\Debug\Quiz.GameForm.resources
