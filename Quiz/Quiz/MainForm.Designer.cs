@@ -38,7 +38,7 @@ namespace Quiz
             // PlayButton
             // 
             this.PlayButton.Font = new System.Drawing.Font("Monotype Corsiva", 18F, System.Drawing.FontStyle.Italic, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.PlayButton.Location = new System.Drawing.Point(309, 20);
+            this.PlayButton.Location = new System.Drawing.Point(309, 66);
             this.PlayButton.Name = "PlayButton";
             this.PlayButton.Size = new System.Drawing.Size(198, 86);
             this.PlayButton.TabIndex = 0;
